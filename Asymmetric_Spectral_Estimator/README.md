@@ -3,9 +3,8 @@
 This folder contains the implementation and experimental framework for the **Asymmetric Spectral Estimator (ASE)** under various sampling ratios.  
 Specifically, it focuses on constructing and evaluating the ASE within the range of sampling ratios:
 
-\[
-\alpha = \frac{n}{d} \in [1, 20]
-\]
+$\alpha = \dfrac{n}{d} \in [1, 20]$
+
 
 ### **Contents**
 - **Core Implementation**  
